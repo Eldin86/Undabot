@@ -1,7 +1,5 @@
 .navigation .nav-link{
-    text-decoration: none;
     color: rgb(155, 155, 155)!important;
-    border-bottom: 2px solid transparent;
 }
 .navigation .nav-link.active{
     color: #EDE059!important;

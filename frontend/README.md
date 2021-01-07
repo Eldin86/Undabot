@@ -36,7 +36,7 @@ npm run dev
 * **React** - create app components using Facebook's React Javascript UI library
 * **Bootstrap 4** - popular framework for building responsive, mobile-first sites
 * **Babel** - transpile javascript ES6 code down to ES5
-* **Extract Text Plugin** - extract styles to separate filesthem to .css
+* **Extract Text Plugin** - extract styles to separate filesstyles for your app and compile them to .css
 * **Html Webpack Plugin** - allows use of predefined HTML template (entry file: **./public/index.html**)
 * **File Loader** - allows use of media files in project via emitted URL
 * **Image Webpack Loader** - compress source images in build with imagemin
