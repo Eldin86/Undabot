@@ -18,12 +18,10 @@ function Home() {
                     <Card.Title className="text-center py-3">Card Title</Card.Title>
                     <Card.Img variant="top" src={Img} />
                     <Card.Body>
-                    <Form>
                         < Form.Group className="col-12 col-md-6" controlId="formBasicEmail" >
                             <Form.Label>Your text:</Form.Label>
                             <Form.Control value={text} type="text" onChange={onChangeHandler} />
                         </Form.Group >
-                    </Form>
                         <Card.Text>
                             {text}
                     </Card.Text>
